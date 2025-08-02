@@ -7,4 +7,7 @@ nbformat
 requests
 beautifulsoup4
 ipykernel
-
+scikit-learn
+jupyter
+pyforest
+xgboost
